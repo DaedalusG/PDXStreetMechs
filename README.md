@@ -10,3 +10,7 @@ A page for Portland Street Mechanics and Mutual Aid
 * Users may comment in a general form, and create threads from comments in forum
 
 * Admins may post priority comments, and list scheduled times for meetings
+
+## Stretch
+
+* Invoice tool for mechanics to generate workorders
